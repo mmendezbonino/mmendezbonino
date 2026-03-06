@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Marcos 👋
 
-<!--
-**mmendezbonino/mmendezbonino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Cybersecurity student focused on penetration testing  
+📚 Currently studying: CompTIA Security+ (SY0-701)  
+🛠️ Tools: Kali Linux, Nmap, Wireshark (learning)  
+🌍 Based in Uruguay | Open to remote opportunities  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Goals
+- Pass CompTIA Security+ (SY0-701)
+- Complete TryHackMe Jr Penetration Tester path
+- Build hands-on labs and document them here
+
+## 📂 Repositories
+| Repo | Description |
+|------|-------------|
+| [security-notes](https://github.com/mmendezbonino/security-notes) | Notes and summaries from Security+ studies |
+| [tryhackme-writeups](https://github.com/mmendezbonino/tryhackme-writeups) | Writeups of TryHackMe labs and machines |
+
+## 🎓 Certifications
+- 🔄 CompTIA Security+ (SY0-701) — In progress
+- ✅ Cambridge B2 First Certificate (English)
+- ✅ IT Technical Degree — UTU Uruguay
+
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/marcos-méndez)
