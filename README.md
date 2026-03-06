@@ -24,4 +24,4 @@
 - ✅ IT Technical Degree — UTU Uruguay
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/marcos-m%C3%A9ndez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/marcos-m%C3%A9ndez)
